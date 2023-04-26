@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="my_styles" >
+    <item name="colorPrimary">#FF363E</item>
+    </style>
+
+</resources>

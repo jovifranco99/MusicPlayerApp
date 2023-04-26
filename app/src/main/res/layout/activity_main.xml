@@ -6,14 +6,15 @@
     android:layout_height="match_parent"
     android:background="#000"
     tools:context=".MainActivity">
-    
+
     <ListView
         android:id="@+id/listViewSong"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:divider="@android:color/transparent"
         android:dividerHeight="10.0sp"
         android:padding="8dp"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:rotationX="-5">
 
 
     </ListView>
